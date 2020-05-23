@@ -364,7 +364,7 @@ for the full text.
 Changelog
 =========
 
-**v1.1.5** - May 22, 2020:
+**v1.1.5** - May 22, 2020 (commit `f72d91104a9c1af049ec059691dc4ee539cc0812`):
  * Ensure that health vending machines in Southern Shelf always contain a few
    shields, for the mission "Shielded Favors."  (Fully compatible with Jim
    Raven's MakeVendorsGreatAgain and theNocturni's Vendor+, mostly compatible
