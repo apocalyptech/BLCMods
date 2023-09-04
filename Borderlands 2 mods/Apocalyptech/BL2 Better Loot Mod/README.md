@@ -370,7 +370,6 @@ TODO
 * It probably wouldn't be difficult to nerf the drop rates in general during
   Slaughterdome missions (or rather, in the Slaughterdome areas).  That might
   be especially helpful in Murderlin's Temple.
-* Make a Reborn-compatible version of this
 * I feel like too many of the New Pandora troops drop from the badass pools,
   given that there tend to be quite a few of them together.  Various fights
   have 3+ snipers, etc.  Leaving it for now, but may nerf later...
